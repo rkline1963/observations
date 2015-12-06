@@ -2864,4 +2864,27 @@ shimmer), veil nebula (2015-12-04-21:31 w/OIII filter all three parts), NGC247
 ** Notes
 First trial of v3 mount/support for lapdock (2015-12-04-21:19 0% RH 32.0F),
 significant balance issues (2015-12-04-21:37 71% RH 33.8F),
-(2015-12-04-21:46), (2015-12-04-21:46)
+(2015-12-04-21:46)
+* 2015-12-05
+** Location
+  N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+M27 (2015-12-05-20:54), veil nebula (2015-12-05-20:58 with OIII filter), M1
+(2015-12-05-21:00 with OIII filter although it does not do much for it), M42
+(2015-12-05-21:04 left OIII filter on shows up well but filter doesn't reveal
+anything), M43 (2015-12-05-21:05), NGC253 (2015-12-05-21:07), NGC288
+(2015-12-05-21:08), uranus (2015-12-05-21:14 30mm and 15mm I think I can just
+see it with the naked eye), NGC474 (2015-12-05-21:19 nice little field with
+NGC470 and NGC467), NGC470 (2015-12-05-21:20), NGC467 (2015-12-05-21:21),
+NGC520 (2015-12-05-21:23), NGC521 (2015-12-05-21:25), NGC533
+(2015-12-05-21:26), M31 (2015-12-05-21:30), M32 (2015-12-05-21:30), M110
+(2015-12-05-21:30), M42 (2015-12-05-21:36 30mm and 15mm fifth trapezim star just resolvable with 15mm eyepiece), 
+** Notes
+(2015-12-05-20:53 50% RH 44.2F sensor may not have cooled all the way down
+scope shroud haas moderate frost), (2015-12-05-21:05), (2015-12-05-21:05 62%
+RH 38.5F), mirror thermals much better than last night since mirror has been
+on fan since sunset, (2015-12-05-21:21 63% RH 37.8F), (2015-12-05-21:30 69% RH
+34.2F), seeing fair to poor v3.1 of lapdock mount better and put large power
+pack on right side for better although still not perfect balance
