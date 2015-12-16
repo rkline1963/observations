@@ -2888,3 +2888,36 @@ RH 38.5F), mirror thermals much better than last night since mirror has been
 on fan since sunset, (2015-12-05-21:21 63% RH 37.8F), (2015-12-05-21:30 69% RH
 34.2F), seeing fair to poor v3.1 of lapdock mount better and put large power
 pack on right side for better although still not perfect balance
+* 2015-12-15
+** Location
+  N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+albireo (2015-12-15-19:26), M57 (2015-12-15-19:36), moon (2015-12-15-19:37
+serious mirror thermal shimmers), veil nebula (2015-12-15-19:45 with OIII
+filter did not see much adverse effect from crescent moon), M27
+(2015-12-15-19:47 with OIII filter), M1 (2015-12-15-19:49), M76
+(2015-12-15-19:53), NGC246 (2015-12-15-19:56 interesting with OIII filter
+since moon still up look again without moon and filter), M42 (2015-12-15-21:29
+30mm and 15mm eyepiece could only resolve main 4 trapezium stars), M43
+(2015-12-15-21:29), 32 eridani (2015-12-15-21:38 gold blue double star kstars
+finds it as HD24555 30mm and 15mm), NGC1507 (2015-12-15-21:41), NGC1453
+(2015-12-15-21:47), NGC1441 (2015-12-15-21:47 near NGC1453), NGC1451
+(2015-12-15-21:48 near NGC1453), NGC1449 (2015-12-15-21:48 near NGC1453),
+NGC2024 (2015-12-15-21:55), M78 (2015-12-15-21:58), NGC2071
+(2015-12-15-21:58), NGC2112 (2015-12-15-21:59 oc a few degrees from M78 ho
+hum), NGC2169 (2015-12-15-22:03 the 37 cluster), NGC1817 (2015-12-15-22:07),
+NGC1807 (2015-12-15-22:07), NGC2264 (2015-12-15-22:11), NGC2239
+(2015-12-15-22:15), NGC2237 (2015-12-15-22:15 rosette nebula also with OIII
+filter), M81 (2015-12-15-22:19), M82 (2015-12-15-22:19), NGC3077
+(2015-12-15-22:19), M79 (2015-12-15-22:21 the just naked eye star less than a
+degree from M79 is a blue yellow double), NGC1964 (2015-12-15-22:25), M31 (2015-12-15-22:28), M32 (2015-12-15-22:28), M110 (2015-12-15-22:28), 
+*** Not Observed
+NGC1446 (near NGC1453 and in the middle of 3 other galaxies but could not resolve it 14.4 mag)
+** Notes
+compiled version of code without wiichuck code since it gives bad mouse inputs
+but this version doesn't have the dht22 temperature and humidity read out
+code, 54 degrees is a bad altitude between steps 2 and 3 of the light weight
+ladders
+
