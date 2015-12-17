@@ -2890,7 +2890,7 @@ on fan since sunset, (2015-12-05-21:21 63% RH 37.8F), (2015-12-05-21:30 69% RH
 pack on right side for better although still not perfect balance
 * 2015-12-15
 ** Location
-  N 38.52141 W 78.16261 Elev. 540 feet
+ N 38.52141 W 78.16261 Elev. 540 feet
 ** Equipment
    20 inch dobsonian
 *** Observed
@@ -2912,7 +2912,8 @@ NGC1807 (2015-12-15-22:07), NGC2264 (2015-12-15-22:11), NGC2239
 (2015-12-15-22:15), NGC2237 (2015-12-15-22:15 rosette nebula also with OIII
 filter), M81 (2015-12-15-22:19), M82 (2015-12-15-22:19), NGC3077
 (2015-12-15-22:19), M79 (2015-12-15-22:21 the just naked eye star less than a
-degree from M79 is a blue yellow double), NGC1964 (2015-12-15-22:25), M31 (2015-12-15-22:28), M32 (2015-12-15-22:28), M110 (2015-12-15-22:28), 
+degree from M79 is a blue yellow double), NGC1964 (2015-12-15-22:25), M31
+(2015-12-15-22:28), M32 (2015-12-15-22:28), M110 (2015-12-15-22:28),
 *** Not Observed
 NGC1446 (near NGC1453 and in the middle of 3 other galaxies but could not resolve it 14.4 mag)
 ** Notes
@@ -2921,3 +2922,33 @@ but this version doesn't have the dht22 temperature and humidity read out
 code, 54 degrees is a bad altitude between steps 2 and 3 of the light weight
 ladders
 
+* 2015-12-16
+** Location
+ N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+M79 (2015-12-16-22:55), M42 (2015-12-16-22:59 trapezium barely resolvable),
+M43 (2015-12-16-22:59), mu cephei (2015-12-16-23:03 Herchel's Garnet Star a
+good choice with non-point star images), M31 (2015-12-16-23:06), M32
+(2015-12-16-23:06), M110 (2015-12-16-23:06), M33 (2015-12-16-23:08), NGC752
+(2015-12-16-23:10), NGC759 (2015-12-16-23:12), NGC753 (2015-12-16-23:12), M1
+(2015-12-16-23:14), M42 (2015-12-16-23:16 trapezium distinct and better image
+after 15 minutes on fan), M44 (2015-12-16-23:18), M67 (2015-12-16-23:21), M41
+(2015-12-16-23:22), NGC3077 (2015-12-16-23:24), M81 (2015-12-16-23:24), M82
+(2015-12-16-23:24), M108 (2015-12-16-23:25), M97 (2015-12-16-23:25), 32
+eridani (2015-12-16-23:27), NGC2237 (2015-12-16-23:29), NGC2239
+(2015-12-16-23:29), Horsehead Nebula (2015-12-16-23:31 checked charts to
+verify the notch I seemed to see in faint nebulosity was at the correct
+location unknown why I was able to see it tonight but not in past attempts),
+NGC2024 (2015-12-16-23:32), M78 (2015-12-16-23:33), NGC2071
+(2015-12-16-23:33), NGC1726 (2015-12-16-23:36), NGC1720 (2015-12-16-23:36),
+*** Not Observed
+Witch's Head Nebula  (2015-12-16-23:37 IC2118) 
+** Notes
+new solar rechargeable battery pack powering odroid has astoundingly bright
+blue power leds thinner new pack used last night was less obnoxious, expected
+poor conditions so did not get scope out early just pulled out with > 20
+degree mirror delta T and horrifically jumpy images, (2015-12-16-23:25 hazy
+clouds rolling in), (2015-12-16-23:38 hazy clouds have covered orion only
+zenith semiclear so calling it a night)
