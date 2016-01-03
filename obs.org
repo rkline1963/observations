@@ -2952,3 +2952,21 @@ poor conditions so did not get scope out early just pulled out with > 20
 degree mirror delta T and horrifically jumpy images, (2015-12-16-23:25 hazy
 clouds rolling in), (2015-12-16-23:38 hazy clouds have covered orion only
 zenith semiclear so calling it a night)
+* 2016-01-02
+** Location
+ N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+M31 (2016-01-02-23:18),  M32 (2016-01-02-23:18), M110  (2016-01-02-23:18), M33
+(2016-01-02-23:20),  M79 (2016-01-02-23:22),  M42  (2016-01-02-23:25 30mm  and
+15mm ep fifth trapezium star just resolvable with 15mm), M43 (2016-01-02-23:26
+30mm and  15mm), NGC2024  (2016-01-02-23:29), M78  (2016-01-02-23:31), NGC2071
+(2016-01-02-23:31),  M41  (2016-01-02-23:33),   M109  (2016-01-02-23:35),  M81
+(2016-01-02-23:38),  M82  (2016-01-02-23:38),   M108  (2016-01-02-23:39),  M97
+(2016-01-02-23:39), NGC2090 (2016-01-02-23:42), NGC2090 (2016-01-02-23:47), M1
+(2016-01-02-23:51), NGC2237 (2016-01-02-23:54)
+** Notes
+Temperature below freezing but mirror thermals minimal since mirror had been
+on fan for 6 hours before observing, transparency was good and seeing was fair
+with 5th star of trapezium just visible with 15mm eyepiece
