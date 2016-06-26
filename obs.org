@@ -2970,3 +2970,25 @@ M31 (2016-01-02-23:18),  M32 (2016-01-02-23:18), M110  (2016-01-02-23:18), M33
 Temperature below freezing but mirror thermals minimal since mirror had been
 on fan for 6 hours before observing, transparency was good and seeing was fair
 with 5th star of trapezium just visible with 15mm eyepiece
+* 2016-06-25
+** Location
+ N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** OBserved
+markarian chain (2016-06-25-23:24), M86 (2016-06-25-23:25), M87
+(2016-06-25-23:27), NGC4478 (2016-06-25-23:27), M89 (2016-06-25-23:29), M90
+(2016-06-25-23:29), M58 (2016-06-25-23:30), M59 (2016-06-25-23:32), M60
+(2016-06-25-23:32), NGC4648 (2016-06-25-23:32), NGC4606 (2016-06-25-23:33),
+siamese twins (2016-06-25-23:35), NGC4564 (2016-06-25-23:35), NGC4608
+(2016-06-25-23:37), NGC4596 (2016-06-25-23:37), mars (2016-06-25-23:40 30mm
+and 15mm some features distinct despite some mirror shimmer), saturn
+(2016-06-25-23:43 30mm and 15mm some mirror thermal shimmer as with mars but
+cassini division easily visible), M4 (2016-06-25-23:46), NGC6144
+(2016-06-25-23:48), M80 (2016-06-25-23:50), M19 (2016-06-25-23:52), M62
+(2016-06-25-23:55), M8 (2016-06-25-23:58), M20 (2016-06-25-23:58), M21
+(2016-06-25-23:58), NGC6544 (2016-06-25-23:59), NGC6553 (2016-06-25-23:59),
+M28 (2016-06-26-00:01), M22 (2016-06-26-00:02), M51 (2016-06-26-00:06),
+NGC5195 (2016-06-26-00:06), NGC6624 (2016-06-26-00:10), NGC6652
+(2016-06-26-00:13), M69 (2016-06-26-00:13), M70 (2016-06-26-00:14), M54
+(2016-06-26-00:15), M17 (2016-06-26-00:20), M6 (2016-06-26-00:23),
