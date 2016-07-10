@@ -2975,7 +2975,7 @@ with 5th star of trapezium just visible with 15mm eyepiece
  N 38.52141 W 78.16261 Elev. 540 feet
 ** Equipment
    20 inch dobsonian
-*** OBserved
+*** Observed
 markarian chain (2016-06-25-23:24), M86 (2016-06-25-23:25), M87
 (2016-06-25-23:27), NGC4478 (2016-06-25-23:27), M89 (2016-06-25-23:29), M90
 (2016-06-25-23:29), M58 (2016-06-25-23:30), M59 (2016-06-25-23:32), M60
@@ -2992,3 +2992,34 @@ M28 (2016-06-26-00:01), M22 (2016-06-26-00:02), M51 (2016-06-26-00:06),
 NGC5195 (2016-06-26-00:06), NGC6624 (2016-06-26-00:10), NGC6652
 (2016-06-26-00:13), M69 (2016-06-26-00:13), M70 (2016-06-26-00:14), M54
 (2016-06-26-00:15), M17 (2016-06-26-00:20), M6 (2016-06-26-00:23),
+* 2016-07-09
+** Location
+ N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+saturn (2016-07-09-23:43 30mm and 15mm cassini division just visible in
+steadier moments), mars (2016-07-09-23:46), epsilon lyray (2016-07-09-23:51
+30mm and 15mm inner doubles not resolvable), M7 (2016-07-09-23:53), M6
+(2016-07-09-23:55), NGC6416 (2016-07-09-23:55), NGC6383 (2016-07-09-23:56),
+NGC6404 (2016-07-09-23:57), NGC6425 (2016-07-09-23:58), NGC6480
+(2016-07-10-00:00), NGC6451 (2016-07-10-00:01), NGC6528 (2016-07-10-00:02 in
+same field with NGC6522 unusual to have two GCs in same field), NGC6522
+(2016-07-10-00:03), NGC6569 (2016-07-10-00:05 less than a degree from NGC6558
+but not as nice a two GC field as NGC6528 and NGC6522), NGC6624
+(2016-07-10-00:08), M8 (2016-07-10-00:10), NGC6544 (2016-07-10-00:11), M20
+(2016-07-10-00:12), M21 (2016-07-10-00:13), M28 (2016-07-10-00:15), NGC6638
+(2016-07-10-00:15), M22 (2016-07-10-00:16), NGC6578 (2016-07-10-00:26 30mm and
+15mm small 13 mag pn needed OIII filter comparison with and without to
+distinguish from stars), veil nebula (2016-07-10-00:32 all three parts with
+OIII filter), M27 (2016-07-10-00:36 with and withouth OIII filter), M51
+(2016-07-10-00:38 conditions not as good to nw as to South), NGC5195
+(2016-07-10-00:38), NGC5687 (2016-07-10-00:42), M101 (2016-07-10-00:43), M31
+(2016-07-10-00:44), M32 (2016-07-10-00:44), M110 (2016-07-10-00:44), mars
+(2016-07-10-00:46 still shimmering a lot), saturn (2016-07-10-00:47), NGC6589
+(2016-07-10-00:49), NGC6590 (2016-07-10-00:49), NGC6595 (2016-07-10-00:49),
+M24 (2016-07-10-00:50), NGC6603 (2016-07-10-00:50), M18 (2016-07-10-00:51),
+M17 (2016-07-10-00:51), M11 (2016-07-10-00:53)
+** Notes
+Transparency good especially for summer seeing poor and/or mirror thermals still apparent after more than 3 hours with
+scope out and fan on
