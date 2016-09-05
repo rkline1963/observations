@@ -3023,3 +3023,20 @@ M17 (2016-07-10-00:51), M11 (2016-07-10-00:53)
 ** Notes
 Transparency good especially for summer seeing poor and/or mirror thermals still apparent after more than 3 hours with
 scope out and fan on
+* 2016-09-04
+** Location
+ N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+saturn (2016-09-04-20:58), M8 (2016-09-04-21:00), M20 (2016-09-04-21:00), M28
+(2016-09-04-21:01), NGC6638 (2016-09-04-21:06), NGC6644 (2016-09-04-21:08),
+M22 (2016-09-04-21:09), M51 (2016-09-04-21:10), NGC5195 (2016-09-04-21:10),
+NGC5198 (2016-09-04-21:12), NGC6642 (2016-09-04-21:16), M17
+(2016-09-04-21:21), saturn (2016-09-04-21:23 30mm and 15mm cassini division
+clear through slight thermal shimmer from mirror and branch of shrub in fov),
+M101 (2016-09-04-21:29), mars  (2016-09-04-21:32 through shrub ugh)
+** Notes
+thin hazy clouds near sunset cleared to mediocre transparency after sunset
+seeing fair but humidity low enough cooling below the mirror temp after
+sunset so thermal shimmer present
