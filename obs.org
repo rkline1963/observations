@@ -3040,3 +3040,31 @@ M101 (2016-09-04-21:29), mars  (2016-09-04-21:32 through shrub ugh)
 thin hazy clouds near sunset cleared to mediocre transparency after sunset
 seeing fair but humidity low enough cooling below the mirror temp after
 sunset so thermal shimmer present
+* 2016-11-19
+** Location
+ N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+M45 (2016-11-19-19:07), 
+** Notes
+very windy after cold front poor seeing and mirror thermals 35% RH 45.1F
+(2016-11-19-19:08), mostly cloudy instead of clear as forecast, still cloudy
+38% RH 44.8F (2016-11-19-19:40), completely crapped out now giving up 36% RH
+42.6F (2016-11-19-20:45),
+* 2017-01-28
+** Location
+ N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+M97 (2017-01-28-20:26), M108 (2017-01-28-20:27), M31 (2017-01-28-20:31), M32
+(2017-01-28-20:31), M110 (2017-01-28-20:31), M42 (2017-01-28-20:36), M43
+(2017-01-28-20:36), NGC2024 (2017-01-28-20:38), M78 (2017-01-28-20:39),
+NGC2071 (2017-01-28-20:40), NGC2112 (2017-01-28-20:42), M1 (2017-01-28-20:44),
+M79 (2017-01-28-20:46), NGC1744 (2017-01-28-20:48 hard to make out at 26
+degree altitude 11 mag galaxy), M41 (2017-01-28-20:51), M33 (2017-01-28-20:53), 
+** Notes
+ (36% RH 40.5F 2017-01-28-20:27), (40% RH 37.8F 2017-01-28-20:38), clouds
+ began to drift through around 2040 (44% RH 36.9F 2017-01-28-20:53), giving up
+ on looking for holes
