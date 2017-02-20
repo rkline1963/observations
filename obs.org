@@ -3106,11 +3106,32 @@ M52 (2017-02-19-20:47), M103 (2017-02-19-20:49), M31 (2017-02-19-20:49), M32
 (2017-02-19-21:11), NGC2467 (2017-02-19-21:12), M67 (2017-02-19-21:14), M44
 (2017-02-19-21:15), M97 (2017-02-19-21:17), M108 (2017-02-19-21:17), M109
 (2017-02-19-21:19), M40 (2017-02-19-21:21 verified by NGC4290 in same field),
-NGC4290 (2017-02-19-21:21), 
+NGC4290 (2017-02-19-21:21), M51 (2017-02-19-23:23), NGC5195
+(2017-02-19-23:23), M42 (2017-02-19-23:25), M65 (2017-02-19-23:28), M66
+(2017-02-19-23:28), NGC3628 (2017-02-19-23:29), M95 (2017-02-19-23:32), M96
+(2017-02-19-23:32), M105 (2017-02-19-23:32), NGC3384 (2017-02-19-23:33),
+NGC3389 (2017-02-19-23:33), M106 (2017-02-19-23:36), M94 (2017-02-19-23:38),
+NGC4618 (2017-02-19-23:39), NGC4625 (2017-02-19-23:39), NGC4530
+(2017-02-19-23:41 star that got an ngc number), NGC4490 (2017-02-19-23:42
+impressive galaxy with a companion NGC4485), NGC4485 (2017-02-19-23:42),
+NGC4449 (2017-02-19-23:44), M63 (2017-02-19-23:46), NGC5005 (2017-02-19-23:49
+fits in fov with NGC5033), NGC5033 (2017-02-19-23:50 in fov with NGC5005),
+NGC4631 (2017-02-19-23:54 whale galaxy nice fov with NGC4656 also has
+companion NGC4627 30mm and 15mm easier to resolve companion with 15mm),
+NGC4656 (2017-02-19-23:55), NGC4627 (2017-02-19-23:56), jupiter
+(2017-02-19-23:58 wavering bad in the unsteady air only equatorial bands
+resolvable), M87 (2017-02-20-00:02), M86 (2017-02-20-00:03), M84
+(2017-02-20-00:03), M89 (2017-02-20-00:05), M90 (2017-02-20-00:05), M58
+(2017-02-20-00:06), M59 (2017-02-20-00:06), M60 (2017-02-20-00:06), NGC4638
+(2017-02-20-00:07), NGC4647 (2017-02-20-00:07), M49 (2017-02-20-00:08),
+NGC4596 (2017-02-20-00:09), M88 (2017-02-20-00:13), M91 (2017-02-20-00:13), 
 ** Notes
 Astroscan used 25mm Orion W70 eyepiece, (2017-02-19-18:59 37% RH 60.6F),
  Unable to see M74 with Astroscan, (2017-02-19-19:33 52% RH 51.6F),
  (2017-02-19-19:43 52% RH 51.4F), (2017-02-19-20:21 56% RH 49.5F seeing ranges
  from below average to awful looking at double cluster initial decent view
  fuzzed out as cool breeze arrived), (2017-02-19-20:46 58% RH 48.0F),
- (2017-02-19-21:23 62% RH 46.0F) ,
+ (2017-02-19-21:23 62% RH 46.0F taking a neck stretch and warm up break) ,
+ (2017-02-19-23:26 59% RH 46.4F seeing very poor with M42 at 22 degrees alt
+ stars are not points), streak of thin clouds drifting in (2017-02-19-23:57
+ 65% RH 43.5F), generally deteriorating transparency with occasional thin cloud band plus poor seeing so bagging it  (2017-02-20-00:14 65% RH 42.8F)
