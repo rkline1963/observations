@@ -3211,3 +3211,40 @@ lockup not related to mount, (2017-02-26-00:10 37% RH 40.6F), thin clouds
 driting in sporadically (2017-02-26-00:44 41% RH 39.4F), clouds over what I
 want to look at in ursa major and coma berenices so quitting (2017-02-26-00:52
 40% RH 38.7F)
+* 2017-02-26
+** Location
+  N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+venus (2017-02-26-19:23), 32 eridani (2017-02-26-19:34 blue-gold double star
+added flag on it to kstars), M42 (2017-02-26-19:39 30mm and 15mm), M43
+(2017-02-26-19:39), NGC2024 (2017-02-26-19:43), horsehead nebula
+(2017-02-26-19:43 can just see a notch in barely discenable nebulosity), M79
+(2017-02-26-19:45), M77 (2017-02-26-19:47), NGC1055 (2017-02-26-19:47),
+NGC1087 (2017-02-26-19:48), NGC1090 (2017-02-26-19:48), NGC1094
+(2017-02-26-19:49), NGC1073 (2017-02-26-19:51), NGC955 (2017-02-26-19:52),
+NGC936 (2017-02-26-19:53), M31 (2017-02-26-19:54), M32 (2017-02-26-19:54),
+M110 (2017-02-26-19:54), M41 (2017-02-26-19:58), NGC1788 (2017-02-26-20:01),
+NGC2215 (2017-02-26-20:04), M101 (2017-02-26-22:23), M51 (2017-02-26-22:24),
+NGC5195 (2017-02-26-22:25), M63 (2017-02-26-22:28), M94 (2017-02-26-22:30),
+M106 (2017-02-26-22:31), M3 (2017-02-26-22:34), double cluster
+(2017-02-26-22:35), M42 (2017-02-26-22:36), M102 (2017-02-26-22:40), NGC5907
+(2017-02-26-22:41), NGC4448 (2017-02-26-22:49), NGC4959 (2017-02-26-22:49),
+NGC4565 (2017-02-26-22:50), NGCNGC4494 (2017-02-26-22:51), M45
+(2017-02-26-22:52), M1 (2017-02-26-22:53), M65 (2017-02-26-22:55), M66
+(2017-02-26-22:55), M81 (2017-02-26-22:57), M82 (2017-02-26-22:57), NGC3077
+(2017-02-26-22:58), M51 (2017-02-26-23:00), NGC5195 (2017-02-26-23:00)
+** Notes
+seeing poor but significantly better than last night with no
+wind. (2017-02-26-19:23 17% RH 47.5F), another system lockup around 1927,
+(2017-02-26-19:33 24% RH 42.1F), only 4 stars resolvable in the trapezium but
+that stars are not fuzzy discs like last night and the nebula does not look
+like its at the bottom of a swimming pool, transparency excellent observed
+horsehead nebula again (2017-02-26-19:44 30% RH 39.2F), after another lockup
+spent forever setting up RPi 3 with Ubuntu Mate (the KDE setups put the config
+files in different places and there still seem to be some things missing like
+even through I copied the ngcic.dat from the odroid home directory the messier
+globs don't have valid magnitudes, and of course there aere wispy clouds now
+(2017-02-26-22:25 46% RH 35.8F), moost of the wisps hav drifted off
+(2017-02-26-22:41 56% RH 30.2F), bagging it (2017-02-26-23:00 54% RH 28.8F), 
