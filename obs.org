@@ -3284,3 +3284,16 @@ detail resolvable (2017-03-05-00:20 33% RH 30.2F), waiting for moon to set
 (2017-03-05-01:24 38% RH 26.8F), (2017-03-05-01:32 40% RH 26.8F) upgrade
 seeing to fair details good on jupiter equatorial bands and temperate band
 despite a little shimmer
+* 2017-04-02
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+double cluster (2017-04-02-20:54), M81 (2017-04-02-21:01), M82
+(2017-04-02-21:01), M51 (2017-04-02-21:08), NGC5195 (2017-04-02-21:08), M65
+(2017-04-02-21:10), M66 (2017-04-02-21:10), M108 (2017-04-02-21:16), M97
+(2017-04-02-21:16), M94 (2017-04-02-21:16), jupiter (2017-04-02-21:30), moon
+(2017-04-02-21:42)
+** Notes
+ (2017-04-02-20:55 41% RH 57.0F), 
