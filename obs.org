@@ -3297,3 +3297,22 @@ double cluster (2017-04-02-20:54), M81 (2017-04-02-21:01), M82
 (2017-04-02-21:42)
 ** Notes
  (2017-04-02-20:55 41% RH 57.0F), 
+* 2017-05-14
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+jupiter (2017-05-14-22:22 some shimmer but equatorial and one temperate band
+clearly resolvable), M57 (2017-05-14-22:24 about 18 degrees alt but lyra in a
+cloud gap), M13 (2017-05-14-22:26 for 1 second then a cloud covered it), M51
+(2017-05-14-22:29), NGC5195 (2017-05-14-22:29), NGC5198 (2017-05-14-22:30
+pointed at it first looking for m51 at about 79 degrees alt), M104
+(2017-05-14-22:33), M5 (2017-05-14-22:36), M86 (2017-05-14-22:40), M84
+(2017-05-14-22:40), markarian chain (2017-05-14-22:40), M90
+(2017-05-14-22:41), M84 (2017-05-14-22:41), NGC4429 (2017-05-14-22:42),
+** Notes
+conditions went from partly to mostly cloudy while I looked for my head lamp
+windy with poor, but not completely awful seeing (2017-05-14-22:19 40% RH
+72.1F), had opening over virgo for a few minutes to see some galaxies then
+clouded again so bagging it (2017-05-14-22:43 45% RH 68.7F)
