@@ -3316,3 +3316,67 @@ conditions went from partly to mostly cloudy while I looked for my head lamp
 windy with poor, but not completely awful seeing (2017-05-14-22:19 40% RH
 72.1F), had opening over virgo for a few minutes to see some galaxies then
 clouded again so bagging it (2017-05-14-22:43 45% RH 68.7F)
+* 2017-08-19
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+M7 (2017-08-19-21:14), Saturn (2017-08-19-21:17), M6 (2017-08-19-21:29),
+NGC6374 (2017-08-19-21:29), NGC6416 (2017-08-19-21:29), M28
+(2017-08-19-21:33), M51 (2017-08-19-21:36), NGC5195 (2017-08-19-21:36), 
+** Notes
+rare non-awful weather on saturday near new moon almost clear at sunset but
+patchy clouds at dark seeing fair to poor some shimmer of saturn visible with
+15mm eyepiece (2017-08-19-21:26 58% RH 74.8F), (2017-08-19-21:36 59% RH
+73.8F), lightning not too far away and Pi3 not running kstars well for some
+reason so bagging it
+* 2017-08-25
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   Edmund Astroscan
+*** Observed
+saturn (2017-08-25-22:21 with 23mm Koenig)
+** Notes
+after stretching neck mostly clear sky was mostly cloudy by the time I took
+the astroscan out which became almost completely cloudy in minutes so total
+washout
+* 2017-09-23
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+M28 (2017-09-23-20:45), NGC6638 (2017-09-23-20:45), M22 (2017-09-23-20:51),
+M101 (2017-09-23-20:53), NGC5474 (2017-09-23-20:55), NGC5422
+(2017-09-23-20:56), saturn (2017-09-23-20:59 through shrubbery), M54
+(2017-09-23-21:00), M70 (2017-09-23-21:01), NGC6652 (2017-09-23-21:02), M69
+(2017-09-23-21:03), NGC6723 (2017-09-23-21:09), NGC6726 (2017-09-23-21:09),
+NGC6729 (2017-09-23-21:09), M55 (2017-09-23-21:12), NGC6603
+(2017-09-23-21:16), M24 (2017-09-23-21:16), M17 (2017-09-23-21:16 good view in
+15mm eyepiece steady no mirror thermals), M18 (2017-09-23-21:23), NGC6596
+(2017-09-23-21:23), M16 (2017-09-23-21:25), M11 (2017-09-23-21:29 15mm ep very
+slight instability in air visible but all stars well defined and resolvable),
+M13 (2017-09-23-21:35 15mm and 7.5mm SWA ep used could almost resolve faintest
+stars in center with 7.5mm ep), NGC6207 (2017-09-23-21:37), M92
+(2017-09-23-21:40), M26 (2017-09-23-21:48), NGC6712 (2017-09-23-21:48), saturn
+(2017-09-23-21:49 very low and in leaves of tree 7.5mm did not show much),
+epsilon lyrae (2017-09-23-21:52 double double resolvable by not easy in 15mm
+ep), M57 (2017-09-23-21:54 15mm), M56 (2017-09-23-21:59), M71
+(2017-09-23-22:02), NGC6830 (2017-09-23-22:12), NGC6823 (2017-09-23-22:13),
+M31 (2017-09-23-22:18 15mm ep), M32 (2017-09-23-22:18), M110
+(2017-09-23-22:18), double cluster (2017-09-23-22:23), M33 (2017-09-23-22:27),
+veil nebula (2017-09-23-22:35 wit OIII filter amazing but at above 80 degrees
+altitude a little to high for comfort with 3rd step of ladder), M27
+(2017-09-23-22:36 with OIII), M57 (2017-09-23-22:37 with OIII), NGC7009
+(2017-09-23-22:39 saturn nebula with OIII and 7.5mm ep),
+*** Notes
+finally clear on a weekend with minimal moon (2017-09-23-20:46 57% RH 70.5F),
+kstars on pi3 ubuntu mate seriously f-ed up, seeing and trNnsparnecy both
+goog, (2017-09-23-21:20 69% RH 63.9F), even where there isn't hash of messed
+up stars around sagittarius the pi3 tends to suck wind on zooming in or our,
+(2017-09-23-22:14 73% RH 62.1F), neck back and left hand hurting so calling it
+a night after about 2 hours very good conditions (2017-09-23-22:43 76% RH
+60.8F)
+ 
