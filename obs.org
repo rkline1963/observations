@@ -3380,3 +3380,337 @@ up stars around sagittarius the pi3 tends to suck wind on zooming in or our,
 a night after about 2 hours very good conditions (2017-09-23-22:43 76% RH
 60.8F)
  
+* 2017-11-22
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+NGC288 (2017-11-22-21:17), NGC253 (2017-11-22-21:17), veil nebula
+(2017-11-22-21:24 with oiii filter), NGC6910 (2017-11-22-21:28), NGC6888
+(2017-11-22-21:37 crescent nebula low surface brightness), NGC7006
+(2017-11-22-21:42), M15 (2017-11-22-21:44), M2 (2017-11-22-21:46), NGC908
+(2017-11-22-21:49), NGC720 (2017-11-22-21:51), NGC1052 (2017-11-22-21:54), 32
+eridani (2017-11-22-22:02 HD24555 in kstars database gold blue double star
+better with 15mm ep), NGC1453 (2017-11-22-22:05 3 degrees from 32 eridani),
+M77 (2017-11-22-22:11), NGC1055 (2017-11-22-22:11), NGC1090
+(2017-11-22-22:12), NGC1087 (2017-11-22-22:12), NGC1094 (2017-11-22-22:12),
+NGC1032 (2017-11-22-22:14), NGC1073 (2017-11-22-22:15), M31
+(2017-11-22-22:20), M32 (2017-11-22-22:21), M110 (2017-11-22-22:21), M42
+(2017-11-22-22:35 15mm and 30mm ep trapezium stars only 4 and blobs not
+points), M43 (2017-11-22-22:35), M78 (2017-11-22-22:40), M1
+(2017-11-22-22:42), M31 (2017-11-22-22:46), M32 (2017-11-22-22:46), M110
+(2017-11-22-22:46), M42 (2017-11-22-22:50), M43 (2017-11-22-22:50)
+*** Notes
+seeing poor transparency fair breezy evening and cold (2017-11-22-21:18 44% RH
+38.8F), (2017-11-22-21:38 51% RH 35.2F), 41.75 degreees the upper limit for
+1st ladder and tiptoes (2017-11-22-21:55 52% RH 34.5F), 51 degrees nearly
+ideal for second ladder step (2017-11-22-22:15 52% RH 35.2F), computer locked
+up at 2220 did not appear to be a thermal issue, about 72 degrees usable for
+3rd ladder step a little on toes (2017-11-22-22:32 55% RH 33.1F), 22.5 degrees
+near ideal alt standing on ground 31.5 getting up on tiptoes, 67.3 degrees is
+a little below ideal but comforatble crouch for 3rd ladder steep better than
+72.5 tiptoes earlier for m31 (2017-11-22-22:47 60% RH 32.0F)23
+(2017-11-22-22:47 60% RH 31.8F), tired and shoulder beginning to act up so
+bagging it (2017-11-22-22:50 60% RH 31.8F), kstars settings seemed to show
+outline of more NGC objects than my normal setup compare current settings to
+those saved from the previous LXDE install and copied to the Pi
+* 2017-11-24
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+veil nebula (2017-11-24-21:28 nonoptimal with waxing crescent moon), moon
+(2017-11-24-21:31), M76 (2017-11-24-21:35 with OIII filter), M1
+(2017-11-24-21:40 with OIII filter), M45 (2017-11-24-21:44), double cluster
+(2017-11-24-21:46), M37 (2017-11-24-21:49), M36 (2017-11-24-21:51), NGC1931
+(2017-11-24-21:52), NGC1907 (2017-11-24-21:53), M38 (2017-11-24-21:53),
+NGC1893 (2017-11-24-21:56), NGC1857 (2017-11-24-21:59), NGC1746
+(2017-11-24-22:03), NGC1750 (2017-11-24-22:04 smaller fainter cluster within
+NGC1746 kstars has a 99.9 magnitude for it), M42 (2017-11-24-22:29 30mm and
+15mm ep seeing poor trapezium stars fuzzy blobs), M43 (2017-11-24-22:29),
+hd24555 (2017-11-24-22:35 32 eridani), NGC2024 (2017-11-24-22:40), M78
+(2017-11-24-22:42), NGC2071 (2017-11-24-22:44), NGC2112 (2017-11-24-22:45),
+NGC2143 (2017-11-24-22:49 just a few stars had to check nearby stars to be
+sure), NGC2141 (2017-11-24-22:54), NGC2194 (2017-11-24-22:57), NGC2169
+(2017-11-24-22:58 37 cluster), NGC2174 (2017-11-24-23:05 monkey head nebulw),
+NGC2175 (2017-11-24-23:05), M35 (2017-11-24-23:08), NGC2158
+(2017-11-24-23:08), NGC2129 (2017-11-24-23:09), M81 (2017-11-24-23:22), M82
+(2017-11-24-23:22), NGC3077 (2017-11-24-23:22), NGC2237 (2017-11-24-23:28
+rosette nebula with OIII filter), NGC2264 (2017-11-24-23:31), M42
+(2017-11-24-23:33), M43 (2017-11-24-23:33), NGC1979 (2017-11-24-23:43),
+NGC1964 (2017-11-24-23:44), M31 (2017-11-24-23:48), M32 (2017-11-24-23:48),
+M110 (2017-11-24-23:48), M33 (2017-11-24-23:50), 
+** Equipment
+   astrocscan 
+*** Observed
+M31 (2017-11-24-22:09 with 23mm koenig), M110 (2017-11-24-22:09), M32
+(2017-11-24-22:12 with 7.5mm swa then with 23mm look a little star like at
+lower power), NGC253 (2017-11-24-22:19), NGC288 (2017-11-24-22:19 again needed
+7.5mm ep to recognize then could see in 23mm), M33 (2017-11-24-22:21), M1
+(2017-11-24-22:22), double cluster (2017-11-24-22:25 23mm and 7.5mm), M42
+(2017-11-24-22:33), M43 (2017-11-24-22:33), M45 (2017-11-24-22:38), M35
+(2017-11-24-23:16), NGC2158 (2017-11-24-23:16), M81 (2017-11-24-23:20), M82
+(2017-11-24-23:21), NGC3077 (2017-11-24-23:21), 
+** Notes
+ (2017-11-24-21:31 60% RH 35.8F), (2017-11-24-21:44 66% RH 34.3F), moon has
+ set (2017-11-24-22:0560% RH 36.7F), seeing poor but transparency good based
+ on fuzzy blob star images (2017-11-24-22:31 58% RH 36.3F), (2017-11-24-22:59
+ 65% RH 33.8F), (2017-11-24-23:31 70% RH 32.0F), (2017-11-24-23:50 70% RH
+ 31.6F)
+* 2018-03-03
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   Astrocan and Mark I Eyeball
+*** Observed
+Venus  (2018-03-03-18:45), Mercury  (2018-03-03-18:47 
+* 2018-03-04
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   Astrocan and Mark I Eyeball
+*** Observed
+Venus  (2018-03-04-18:35), Mercury  (2018-03-04-18:35)
+** Equipment
+   20 inch dobsonian
+*** Observed
+M31 (2018-03-04-19:46), M32 (2018-03-04-19:46), M110 (2018-03-04-19:47), M77
+(2018-03-04-19:49), M33 (2018-03-04-19:51), 
+** Notes
+ (2018-03-04-19:51 28% RH 42.6F), 
+* 2018-03-10
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+M31 (2018-03-10-19:42), M32 (2018-03-10-19:42), M110 (2018-03-10-19:42), M33
+(2018-03-10-19:43), M52 (2018-03-10-19:45), M103 (2018-03-10-19:47), M76
+(2018-03-10-19:48), M77 (2018-03-10-19:55 hard to make out), M74
+(2018-03-10-20:01), horsehead (2018-03-10-20:08 maybe), NGC2024
+(2018-03-10-20:08), M42 (2018-03-10-20:11 15mm and 30mm just able to resolve
+5th trapezium star), M43 (2018-03-10-20:13), M41 (2018-03-10-20:13), M78
+(2018-03-10-20:14), M45 (2018-03-10-20:15), double cluster (2018-03-10-20:17),
+M34 (2018-03-10-20:20), M1 (2018-03-10-20:22), M81 (2018-03-10-20:25), M82
+(2018-03-10-20:25), NGC3077 (2018-03-10-20:26), M106 (2018-03-10-20:30), M97
+(2018-03-10-20:31), M38 (2018-03-10-20:34), NGC1907 (2018-03-10-20:34), M36
+(2018-03-10-20:35), NGC1931 (2018-03-10-20:36), M37 (2018-03-10-20:37), M35
+(2018-03-10-20:39), NGC2158 (2018-03-10-20:39), NGC2175 (2018-03-10-20:42
+overlaps ngc2174 not sure if I see 2174), NGC2237 (2018-03-10-20:45 rosette
+nebula), M109 (2018-03-10-20:47), M40 (2018-03-10-20:50), NGC4390
+(2018-03-10-20:50), M65 (2018-03-10-22:23), M66 (2018-03-10-22:23), NGC3628
+(2018-03-10-22:28), M95 (2018-03-10-22:33), M96 (2018-03-10-22:34), M105
+(2018-03-10-22:34), NGC3384 (2018-03-10-22:34), NGC3389 (2018-03-10-22:34),
+M106 (2018-03-10-22:38), M94 (2018-03-10-22:41), M63 (2018-03-10-22:43), M51
+(2018-03-10-22:45), NGC5195 (2018-03-10-22:46), NGC5198 (2018-03-10-22:49),
+M101 (2018-03-10-22:52), NGC5474 (2018-03-10-22:52), NGC5473
+(2018-03-10-22:54), NGC5485 (2018-03-10-22:54), NGC5422 (2018-03-10-22:56),
+M86 (2018-03-10-23:01), M84 (2018-03-10-23:01), NGC4402 (2018-03-10-23:01),
+NGC4387 (2018-03-10-23:02), NGC4388 (2018-03-10-23:02), NGC4407
+(2018-03-10-23:02), NGC4425 (2018-03-10-23:02), NGC4435 (2018-03-10-23:03),
+NGC4438 (2018-03-10-23:03), M88 (2018-03-10-23:04 galaxy hopped markarian
+chain), M91 (2018-03-10-23:05), NGC4571 (2018-03-10-23:05), M90
+(2018-03-10-23:07), M89 (2018-03-10-23:07), M87 (2018-03-10-23:11), NGC4478
+(2018-03-10-23:11), NGC4550 (2018-03-10-23:12), M58 (2018-03-10-23:13),
+NGC4564 (2018-03-10-23:14), NGC4567 (2018-03-10-23:14 siamese twins), NGC4568
+(2018-03-10-23:15 siamese twins), M59 (2018-03-10-23:16), M60
+(2018-03-10-23:17), NGC4606 (2018-03-10-23:17), NGC4647 (2018-03-10-23:18),
+NGC4638 (2018-03-10-23:18), M49 (2018-03-10-23:20), M99 (2018-03-10-23:22),
+M98 (2018-03-10-23:23), M100 (2018-03-10-23:24), NGC4340 (2018-03-10-23:25),
+NGC4350 (2018-03-10-23:25), NGC4450 (2018-03-10-23:26), M85
+(2018-03-10-23:27), NGC4394 (2018-03-10-23:27), M64 (2018-03-10-23:30), M53
+(2018-03-10-23:31), M3 (2018-03-10-23:33), M44 (2018-03-10-23:35), M67 (2018-03-10-23:37)
+** Equipment
+   12x60 binoculars
+*** Observed
+M42 (2018-03-10-20:55), M43 (2018-03-10-20:55), M41 (2018-03-10-20:56), M79
+(2018-03-10-20:59), M38 (2018-03-10-21:00), M36 (2018-03-10-21:00), M37
+(2018-03-10-21:00), M45 (2018-03-10-21:00),
+** Notes
+ (2018-03-10-19:43 37% RH 45.9F), seeing is fair 5th trapezium star resolvable
+ with 15mm ep (2018-03-10-20:15 59% RH 32.4F), (2018-03-10-20:50 64% RH
+ 30.6F), Lepus was behind bush for normal telescope position so used
+ binoculars to observed M79, Taking a warm up and put on lined jeans break
+ (2018-03-10-21:04), right after I went back odroid C2 shut down dont know
+ why, (2018-03-10-22:57 64% RH 28.8F), (2018-03-10-23:27 68% RH 27.5F), cold
+ and sinuses acting up (2018-03-10-23:38 69% RH 26.8F69% RH 26.8F)
+* 2018-03-18
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   Astroscan 2001
+*** Observed
+moon (2018-03-18-20:00), venuo (2018-03-18-20:00), mercury (2018-03-18-20:01),
+** Equipment 
+   20 inch dobsonian
+*** Observed
+M42 (2018-03-18-20:26 30mm and 15mm ep fifth trapezium star easily resolvable
+almost can see sixth), M43 (2018-03-18-20:26), M41 (2018-03-18-20:28), M52
+(2018-03-18-20:32), M103 (2018-03-18-20:35), M31 (2018-03-18-20:36), M32
+(2018-03-18-20:36), M110 (2018-03-18-20:36), M33 (2018-03-18-20:38), M76
+(2018-03-18-20:40), M74 (2018-03-18-20:43 hard to see the guide star below it
+but resolvable when scanning the field), M77 (2018-03-18-20:46), M34
+(2018-03-18-20:48), M79 (2018-03-18-20:49), M45 (2018-03-18-20:54), M78
+(2018-03-18-20:58), M1 (2018-03-18-21:00), M38 (2018-03-18-21:02), NGC1907
+(2018-03-18-21:03), M36 (2018-03-18-21:04), NGC1931 (2018-03-18-21:04), M37
+(2018-03-18-21:06), M35 (2018-03-18-21:10), NGC2158 (2018-03-18-21:10), M50
+(2018-03-18-21:13), M65 (2018-03-18-21:15), M66 (2018-03-18-21:15), NGC3628
+(2018-03-18-21:15), M40 (2018-03-18-21:21), NGC4390 (2018-03-18-21:21),
+NGC3077 (2018-03-18-21:24), M81 (2018-03-18-21:24), M82 (2018-03-18-21:24),
+M109 (2018-03-18-21:27), M108 (2018-03-18-21:28), M97 (2018-03-18-21:29), M93
+(2018-03-18-21:36), double cluster (2018-03-18-21:34), M47 (2018-03-18-21:41),
+M46 (2018-03-18-21:41), NGC2438 (2018-03-18-21:42), M48 (2018-03-18-21:44),
+M44 (2018-03-18-21:47), M67 (2018-03-18-21:49), M96 (2018-03-18-21:52), M105
+(2018-03-18-21:52), NGC3371 (2018-03-18-21:52), NGC3389 (2018-03-18-21:53),
+M95 (2018-03-18-21:53), M42 (2018-03-18-21:57), M43 (2018-03-18-21:57), M101
+(2018-03-18-22:10), NGC5474 (2018-03-18-22:10), M51 (2018-03-18-22:13),
+NGC5195 (2018-03-18-22:13), M106 (2018-03-18-22:17), NGC4242
+(2018-03-18-22:18), M94 (2018-03-18-22:19), M63 (2018-03-18-22:22), M86
+(2018-03-18-22:26 not recording the other 7 ngc markarian chain members in the
+field), M84 (2018-03-18-22:27), M99 (2018-03-18-22:28), M98
+(2018-03-18-22:29), M100 (2018-03-18-22:30), NGC4312 (2018-03-18-22:30),
+NGC4340 (2018-03-18-22:33), NGC4350 (2018-03-18-22:33), M85
+(2018-03-18-22:34), NGC4394 (2018-03-18-22:34), M61 (2018-03-18-22:39),
+NGC4292 (2018-03-18-22:39), M3 (2018-03-18-22:43 30mm and 15mm ep), M53
+(2018-03-18-22:47), NGC5053 (2018-03-18-22:47), M88 (2018-03-18-22:52),
+(2018-03-18-22:52), M87 (2018-03-18-22:54), NGC4476 (2018-03-18-22:54),
+NGC4478 (2018-03-18-22:55), M89 (2018-03-18-22:56), M90 (2018-03-18-22:56),
+M58 (2018-03-18-22:58), NGC4564 (2018-03-18-22:59), NGC4567 (2018-03-18-22:59
+siamese twins), NGC4568 (2018-03-18-23:00 siamese twins), M64
+(2018-03-18-23:04), M59 (2018-03-18-23:09), M60 (2018-03-18-23:10), NGC4638
+(2018-03-18-23:10), NGC4647 (2018-03-18-23:10), M49 (2018-03-18-23:12 nice
+that it is a the same altitude as m59 and m60 at this time of night), M104
+(2018-03-18-23:18), M102 (2018-03-18-23:22 NGC5866), NGC5906
+(2018-03-18-23:23), M68 (2018-03-18-23:27), M83 (2018-03-19-00:59), M5
+(2018-03-19-01:04 15mm and 30mm ep), M13 (2018-03-19-01:06 15mm and 30mm ep),
+NGC6207 (2018-03-19-01:08), M51 (2018-03-19-01:12), NGC5195
+(2018-03-19-01:12), M65 (2018-03-19-01:16), M66 (2018-03-19-01:16), NGC3628
+(2018-03-19-01:16), M92 (2018-03-19-01:18), jupiter (2018-03-19-01:23),
+markarian chain (2018-03-19-01:28), M84 (2018-03-19-01:29), M86
+(2018-03-19-01:29), M104 (2018-03-19-01:33), M57 (2018-03-19-02:56), M12
+(2018-03-19-02:58), M10 (2018-03-19-03:00), M107 (2018-03-19-03:02), M80
+(2018-03-19-03:05), M4 (2018-03-19-03:07), M14 (2018-03-19-03:11), jupiter
+(2018-03-19-03:20 15mm and 30mm ep still some shimmer at 30 degrees alt but
+temperate band clear), epsilon lyrae (2018-03-19-03:24 inner doubles just
+resolvable with 15mm ep), M9 (2018-03-19-03:28), M4 (2018-03-19-03:30 relook
+now that above some of the muck), M96 (2018-03-19-03:35), M95
+(2018-03-19-03:35), M105 (2018-03-19-03:35), NGC3389 (2018-03-19-03:35),
+NGC3371 (2018-03-19-03:35), M29 (2018-03-19-03:52), M19 (2018-03-19-03:57),
+M23 (2018-03-19-04:00), M16 (2018-03-19-04:02), M11 (2018-03-19-04:06), M71
+(2018-03-19-04:07), M27 (2018-03-19-04:09), M17 (2018-03-19-04:12), M18
+(2018-03-19-04:13), M24 (2018-03-19-04:15), M61 (2018-03-19-04:18), mars
+(2018-03-19-04:20), M20 (2018-03-19-04:21), M8 (2018-03-19-04:21), M21
+(2018-03-19-04:23), M25 (2018-03-19-04:25), M39 (2018-03-19-04:33), jupiter
+(2018-03-19-04:38 15mm and 30mm through hazy cloud), 
+** Notes
+fairly good seeing 5 trapezium stars easily resolved some very thin hazy
+clouds to the west where I need to observed the setting objects
+(2018-03-18-20:27 38% RH 47.3F), dodging more hazy junk but finding clear
+spots (2018-03-18-20:53 47% RH 41.0F), more junk harder to find clear spots
+(2018-03-18-21:17 48% RH 40.5F), going to move scope to walkway for better
+eastern horizon (2018-03-18-21:58 56% RH 37.0F), conditions improving except
+to south east (2018-03-18-22:48 60% RH 35.1F), (2018-03-18-23:10 62% RH
+34.2F), nothing else high enough to observe for a while (2018-03-18-23:30 64%
+RH 33.4F), back from break still lot of junk to south but found m83
+(2018-03-19-01:00), thin clouds over much of the sky (2018-03-19-01:13 61% RH
+32.9F), having observed M83, M5, M13, and M92 a few other things are low in
+the trees and there are thing clouds to the east; taking another hour break,
+post break transparency not great but fewer thin clouds (2018-03-19-03:12 60%
+RH 32.2F), (2018-03-19-03:22 63% RH 30.6F), short go inside to warm up and
+wait for things to rise break (2018-03-19-03:48), (2018-03-19-04:06 66% RH
+28.8F), hazy clouds all over the southeast fuck!  (2018-03-19-04:27 71% RH
+27.7F), still fucked (2018-03-19-04:45 76% RH 26.4F), hazy clouds everywhere
+(2018-03-19-04:53 76% RH 26.4F), clouds worsening not clearing so calling it a
+night (2018-03-19-04:56 77% RH 26.6F),
+* 2018-08-04
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+mars (2018-08-04-23:46), M17 (2018-08-04-23:51), M16 (2018-08-04-23:53), M13
+(2018-08-04-23:55), NGC6207 (2018-08-04-23:56), M31 (2018-08-04-23:58), M32
+(2018-08-04-23:58), M110 (2018-08-04-23:58), M101 (2018-08-04-23:59)
+** Notes
+Muggy night transparency not very good and occasional clouds (2018-08-04-23:47
+86% RH 73.2F), low alt to south mostly cloud covered, thin clouds over most of
+the sky so bagging in (2018-08-05-00:00 89% RH 71.8F)
+* 2018-08-09
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+saturn (2018-08-09-21:29), M7 (2018-08-09-21:32), M4 (2018-08-09-21:32),
+saturn (2018-08-09-21:35 with 15mm eyepiece better than expected cassini
+division distinct even at low power), M51 (2018-08-09-21:48), NGC5195
+(2018-08-09-21:48), M8 (2018-08-09-21:51), M20 (2018-08-09-21:54), M27
+(2018-08-09-21:52), veil nebula (2018-08-09-22:05 with OIII), M101
+(2018-08-09-22:11), jupiter (2018-08-09-22:14 with 15mm ep lots of shimmer
+just able to see temperate bands), mars (2018-08-09-22:17 30mm and 15mm some
+dark areas just discernable througg the shimmer)
+** Notes
+ (2018-08-09-21:48 88% RH 72.5F), dodging clouds very humid (2018-08-09-22:07
+ 89% RH 72.3F), bagging it (2018-08-09-22:19)
+* 2018-08-11
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+jupiter (2018-08-11-22:47 lots of shimmer at 11.5 degrees alt), M4
+ (2018-08-11-22:49), M80 (2018-08-11-22:50), M20 (2018-08-11-22:55), M21
+ (2018-08-11-22:55), M8 (2018-08-11-22:59), NGC6559 (2018-08-11-22:59),
+ NGC6544 (2018-08-11-23:03), saturn (2018-08-11-23:05 30mm and 15mm ep seeing
+ poorer than 2 nights ago cassini division hard to discern with 30mm ep), M28
+ (2018-08-11-23:08), M22 (2018-08-11-23:09), M69 (2018-08-11-23:09), M70
+ (2018-08-11-23:10), M54 (2018-08-11-23:11), mars (2018-08-11-23:14 30mm and
+ 15mm ep view a little better than two nights ago due to some what more
+ altitude at 24 degrees despite poorer seeing), M17 (2018-08-11-23:18), 
+** Notes 
+slightly less humid than two nights ago (2018-08-11-22:46 78% RH 73.0F),
+(2018-08-11-23:03 86% RH 71.4F), seeing a little worse than two nights ago
+based on saturn observation, starting to get thin clouds in south east and
+west (2018-08-11-23:16 87% RH 70.3F), thin to moderate clouds over the whole
+sky with only a handful of stars poking through thin spots so bagging it
+(2018-08-11-23:23 86% RH 71.1F)
+* 2019-01-26
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+M42 (2019-01-26-18:57), M43 (2019-01-26-18:57), M31 (2019-01-26-19:02), M32
+(2019-01-26-19:02), M110 (2019-01-26-19:02), M77 (2019-01-26-19:06), NGC1087
+(2019-01-26-19:07), NGC1090 (2019-01-26-19:07), NGC1055 (2019-01-26-19:09),
+NGC1094 (2019-01-26-19:11), NGC1104 (2019-01-26-19:14), NGC2024
+(2019-01-26-19:18), NGC2023 (2019-01-26-19:19), M78 (2019-01-26-19:21),
+NGC2071 (2019-01-26-19:22), NGC1531 (2019-01-26-19:30), NGC1537
+(2019-01-26-19:30), M79 (2019-01-26-19:34), M1 (2019-01-26-19:36), M37
+(2019-01-26-19:38), M36 (2019-01-26-19:39), NGC1931 (2019-01-26-19:41),
+NGC1907 (2019-01-26-19:41), M38 (2019-01-26-19:41), M33 (2019-01-26-20:23),
+NGC604 (2019-01-26-20:23), NGC672 (2019-01-26-20:27), NGC670
+(2019-01-26-20:28), NGC684 (2019-01-26-20:29), NGC661 (2019-01-26-20:32), M81
+(2019-01-26-20:36), M82 (2019-01-26-20:36), NGC3077 (2019-01-26-20:36),
+NGC2976 (2019-01-26-20:37), NGC2959 (2019-01-26-20:39), 32 eridani
+(2019-01-26-20:47), NGC2237 (2019-01-26-20:51), NGC2239 (2019-01-26-20:51),
+M41 (2019-01-26-20:52), M42 (2019-01-26-20:56 something flashing moving very
+slowly in field), (2019-01-26-20:58 object moved less than one degree in 2
+minutes), horsehead nebula (2019-01-26-21:04 checking the pocket star atlas
+close up chart confirmed I saw the barely noticeable notch in the faint
+nebulosity at the right spot), double cluater (2019-01-26-21:06), M78
+(2019-01-26-21:09), M31 (2019-01-26-21:10), M32 (2019-01-26-21:10), M110
+(2019-01-26-21:11), mars (2019-01-26-21:13), M74 (2019-01-26-21:14), uranus
+(2019-01-26-21:16),
+** Notes
+(2019-01-26-18:54 37% RH 39.2F), (2019-01-26-18:57 44% RH 34.9F seeing very
+poor and mirror > 10 degrees above ambient transparency proved to be excellent
+with the notch in the nebulosity of the horsehead just resolvable),
+(2019-01-26-19:14 57% RH 28.8F), (2019-01-26-19:34 60% RH 28.4F ),
+(2019-01-26-19:41 61% RH 27.9F taking a warm up and put on more clothes
+break), (2019-01-26-20:22 68% RH 25.3F ), seeing not awful after fan on mirror
+for 3 hours (2019-01-26-21:06 72% RH 24.4F), (2019-01-26-21:17 72% RH 24.4F
+bagging it)
+
