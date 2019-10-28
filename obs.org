@@ -3714,3 +3714,47 @@ break), (2019-01-26-20:22 68% RH 25.3F ), seeing not awful after fan on mirror
 for 3 hours (2019-01-26-21:06 72% RH 24.4F), (2019-01-26-21:17 72% RH 24.4F
 bagging it)
 
+* 2019-02-09
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+nothing
+** Notes
+thin haze developed over much of sky while I was inside waiting for crescent
+moon to set, with sore foot and neck and cold weather punted on observing
+* 2019-10-27
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+M8 (2019-10-27-19:50), M20 (2019-10-27-19:51), NGC6353 (2019-10-27-19:52), M21
+(2019-10-27-19:53), M28 (2019-10-27-19:54), NGC6638 (2019-10-27-19:55), m22
+(2019-10-27-19:57), saturn (2019-10-27-20:03 seeing abyssmal), M25
+(2019-10-27-20:08), NGC6595 (2019-10-27-20:13), M24 (2019-10-27-20:13),
+NGC6603 (2019-10-27-20:13), M17 (2019-10-27-20:15), M18 (2019-10-27-20:16),
+NGC6596 (2019-10-27-20:19), M16 (2019-10-27-20:20), NGC6604
+(2019-10-27-20:23), NGC6625 (2019-10-27-20:25), NGC6631 (2019-10-27-20:25),
+NGC6664 (2019-10-27-20:29), M26 (2019-10-27-20:30), NGC6649
+(2019-10-27-20:31), NGC6683 (2019-10-27-20:33), NGC6712 (2019-10-27-20:34),
+M11 (2019-10-27-20:36), saturn (2019-10-27-20:40 shimmer still awful), NGC6717
+(2019-10-27-20:39), M13 (2019-10-27-20:42), NGC6207 (2019-10-27-20:42), M92
+(2019-10-27-20:44), M75 (2019-10-27-20:50), M72 (2019-10-27-20:52), NGC7009
+(2019-10-27-20:55), M30 (2019-10-27-21:00), NGC7293 (2019-10-27-21:04 helix
+nebula with and without OIII filter), M57 (2019-10-27-21:06 ring nebula with
+OIII filter), M27 (2019-10-27-21:11 with OIII), NGC6960 (2019-10-27-21:20 veil
+nebula with OIII wow), NGC6992 (2019-10-27-21:21), NGC6995 (2019-10-27-21:22),
+M56 (2019-10-27-21:26), M71 (2019-10-27-21:28), M2 (2019-10-27-21:31), Neptune
+(2019-10-27-21:35), NGC247 (2019-10-27-21:38), NGC253 (2019-10-27-21:40 Silver
+Dollar impressive for being less than 21 degrees altitude), NGC288
+(2019-10-27-21:42), M31 (2019-10-27-21:46), M110 (2019-10-27-21:46), M32
+(2019-10-27-21:46), M33 (2019-10-27-21:48 I think I could see it with naked
+eye put scope on it with red dot finder), double cluster (2019-10-27-21:51),
+M45 (2019-10-27-22:07)
+** Equipment
+   10x50 binoculars
+*** Observed
+Venus (2019-10-27-18:40), M45 (2019-10-27-21:53), M33 (2019-10-27-21:53), M13
+(2019-10-27)
