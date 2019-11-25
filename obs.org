@@ -3815,3 +3815,29 @@ NGC2175 (2019-11-03-00:39), M42 (2019-11-03-00:41), M43 (2019-11-03-00:41),
 ** Notes
  (2019-11-16-19:29 33% RH 35.4F), (2019-11-16-19:42 40% RH 32.0F moon due to
  rise in less than an hour and neck mildly annoyed so quitting)
+* 2019-11-24
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+vega (2019-11-24-19:17), epsilon lyrae (2019-11-24-19:17 fuzzy blobs), M57
+(2019-11-24-19:18), M56 (2019-11-24-19:19), M71 (2019-11-24-19:20), M27
+(2019-11-24-19:23 with OIII), NGC6960 (2019-11-24-19:27 veil nebula with
+OIII), NGC6992 (2019-11-24-19:29 veil nebula with OIII), NGC6995
+(2019-11-24-19:29 veil nebula with OIII), NGC7009 (2019-11-24-19:34 saturn
+nebula with OIII), NGC247 (2019-11-24-19:44), NGC253 (2019-11-24-19:46),
+NGC288 (2019-11-24-19:49), NGC720 (2019-11-24-19:51), NGC157
+(2019-11-24-19:55), NGC151 (2019-11-24-19:56), NGC255 (2019-11-24-20:01),
+NGC246 (2019-11-24-20:01 with OIII), NGC178 (2019-11-24-20:09), NGC207
+(2019-11-24-20:10 averted vision 14.5 mag), NGC187 (2019-11-24-20:11), M2
+(2019-11-24-20:15 with 15mm), M31 (2019-11-24-20:23 at 85 degrees alt seeing
+detail i have not seen before extent and knot at one edge), M32
+(2019-11-24-20:24), M110 (2019-11-24-20:24), M33 (2019-11-24-20:28), NGC588
+(2019-11-24-20:29), NGC604 (2019-11-24-20:29), M45 (2019-11-24-20:32), 
+** Notes
+ (2019-11-24-19:07 42% RH 47.7F mirror thermals poor despite 90 ,inutes out
+ with fan on mirror and mild temps ), (2019-11-24-19:35 55% RH 39.7F),
+ (2019-11-24-20:15 61% RH 37.2F), (2019-11-24-22:48 resuing after spending a
+ couple of hours finishing the concrete mold for the brutalist clock but high
+ thin clouds have moved in so quitting instead 59% RH 37.2F),
