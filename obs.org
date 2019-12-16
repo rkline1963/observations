@@ -3841,3 +3841,23 @@ detail i have not seen before extent and knot at one edge), M32
  (2019-11-24-20:15 61% RH 37.2F), (2019-11-24-22:48 resuing after spending a
  couple of hours finishing the concrete mold for the brutalist clock but high
  thin clouds have moved in so quitting instead 59% RH 37.2F),
+* 2019-12-15
+** Location
+   N 38.52141 W 78.16261 Elev. 540 feet
+** Equipment
+   20 inch dobsonian
+*** Observed
+vega (2019-12-15-18:39), M57 (2019-12-15-18:40), veil nebula (2019-12-15-18:46
+with OIII), double cluster (2019-12-15-18:49), M31 (2019-12-15-18:53 84
+degrees too high for anything but full sized ladder on tip toes with light
+ladders), M32 (2019-12-15-18:54), M110 (2019-12-15-18:54), M33
+(2019-12-15-18:56 about 73 degrees altitude near optimal for top step of light
+ladder), NGC604 (2019-12-15-18:58), NGC588 (2019-12-15-18:58), M2
+(2019-12-15-19:03 30mm and 15mm ep higher power not completely useless), M45
+(2019-12-15-19:06), M1 (2019-12-15-19:07), 
+** Notes
+ (2019-12-15-18:40 43% RH 45.5F), (2019-12-15-19:03 55% RH 37.6F transparency
+ at best fair seeing poor to average based on Venus naked eye twinkling),
+ (2019-12-15-19:08 59% RH 37.6F could stay out another hour or more before
+ moonrise but foot hurting from travel and neigbors christmas lights glaring
+ to the south 59% RH 37.4F)
